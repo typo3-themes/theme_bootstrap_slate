@@ -6,9 +6,4 @@ page {
         file2 >
         file3 >
     }
-    10 {
-        file.stdWrap.cObject.stdWrap.dataWrap = EXT:theme_bootstrap/Resources/Private/Templates/|.html
-        layoutRootPath  = EXT:theme_bootstrap/Resources/Private/Layouts/
-        partialRootPath = EXT:theme_bootstrap/Resources/Private/Partials/
-    }
 }
