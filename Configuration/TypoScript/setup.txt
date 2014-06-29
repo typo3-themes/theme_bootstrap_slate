@@ -1,9 +1,20 @@
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:theme_bootstrap/Configuration/TypoScript/setup.txt">
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:theme_bootstrap_slate/Configuration/TypoScript/Library" extensions="setupts">
 
 page {
     includeCSS {
-        file1 = EXT:theme_bootstrap_slate/Resources/Public/Stylesheets/bootstrap.min.css
-        file2 >
-        file3 >
+        bootstrap = EXT:theme_bootstrap_slate/Resources/Public/Stylesheets/bootstrap.min.css
     }
 }
+
+
+plugin.tx_themebootstrap {
+
+ # This is an example how to modify the translation
+ 	_LOCAL_LANG {
+ 		default {
+ 			someUnusedKey = foo
+ 			languageMenu_label = foo
+ 		}
+ 	}
+ }
