@@ -9,8 +9,6 @@ page {
 
 
 plugin.tx_themebootstrap {
-
- # This is an example how to modify the translation
  	_LOCAL_LANG {
  		default {
  			someUnusedKey = foo
