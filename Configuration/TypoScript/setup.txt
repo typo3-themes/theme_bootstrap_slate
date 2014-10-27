@@ -8,7 +8,7 @@ page {
 }
 
 
-plugin.tx_themebootstrap {
+plugin.tx_themes {
  	_LOCAL_LANG {
  		default {
  			someUnusedKey = foo
