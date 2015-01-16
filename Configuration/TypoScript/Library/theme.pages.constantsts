@@ -1,23 +1,23 @@
 
-# cat=page; type=int+; label= Seite für die Home/Startseite
+# cat=pages; type=int+; label= Seite für die Home/Startseite
 themes.configuration.pages.startsite = 0
 
-# cat=page; type=int+; label= Seite für die AGB
+# cat=pages; type=int+; label= Seite für die AGB
 themes.configuration.pages.legal = 0
 
-# cat=page; type=int+; label= Datenschutz-Seite
+# cat=pages; type=int+; label= Datenschutz-Seite
 themes.configuration.pages.privacy = 0
 
-# cat=page; type=int+; label= Impressum-Seite
+# cat=pages; type=int+; label= Impressum-Seite
 themes.configuration.pages.imprint = 66
 
-# cat=page; type=int+; label= Kontakt-Seite
+# cat=pages; type=int+; label= Kontakt-Seite
 themes.configuration.pages.contact = 0
 
-# cat=page; type=int+; label= Seite auf der die Sitemap zu finden ist
+# cat=pages; type=int+; label= Seite auf der die Sitemap zu finden ist
 themes.configuration.pages.sitemap = 15
 
-# cat=page; type=int+; label= Seite auf der sich die Suche befindet
+# cat=pages; type=int+; label= Seite auf der sich die Suche befindet
 themes.configuration.pages.search = 0
 
 # cat=unused; type=int+; label= Seite auf der man sich einloggt
