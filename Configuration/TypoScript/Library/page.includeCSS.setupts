@@ -1,0 +1,4 @@
+page.includeCSS {
+	# Overwrite theme_bootstrap less
+	theme = EXT:theme_bootstrap_slate/Resources/Private/Dyncss/import.less
+}

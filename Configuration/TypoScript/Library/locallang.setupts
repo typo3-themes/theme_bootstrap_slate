@@ -1,0 +1,12 @@
+plugin.tx_themes {
+	_LOCAL_LANG {
+		default {
+			breadcrumb_label = You are here
+			new_label = Neues Label
+		}
+		de {
+			breadcrumb_label = Sie sind hier
+			new_label = Neues Label
+		}
+	}
+}
