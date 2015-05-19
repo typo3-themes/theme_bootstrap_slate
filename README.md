@@ -1,4 +1,4 @@
-# theme_foundation
+# theme_bootstrap_slate
 Twitter Bootstrap theme for TYPO3 CMS. Based on theme_bootstrap
 
 Sadly we do currently have no screenshots
