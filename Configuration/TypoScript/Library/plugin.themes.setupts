@@ -1,0 +1,13 @@
+plugin.tx_themes {
+	view {
+		templateRootPaths {
+			400 = EXT:theme_bootstrap_slate/Resources/Private/Templates/
+		}
+		partialRootPaths {
+			400 = EXT:theme_bootstrap_slate/Resources/Private/Partials/
+		}
+		layoutRootPaths {
+			400 = EXT:theme_bootstrap_slate/Resources/Private/Layouts/
+		}
+	}
+}
